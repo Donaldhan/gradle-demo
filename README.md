@@ -11,7 +11,7 @@
 * [项目执行](#项目执行)
 
 本项目用于简单测试gradle项目管理工具。在测试项目前，要先安装装gradle eclipse 插件buildship。
-## 安装gradle eclipse 插件buildship
+## 安装gradle eclipse插件buildship
 在创建gradle项目的过程中，如果在线安装失败的话，可以在eclipse的Marketplace软件库中安装指定的buildship插件即可。
 安装完插件到Windows-peference中配置gradle的安装目录和gradle用户目录 *D:.gradle* 文件夹，这个和maven的 *.m2* 文件夹
 的作用相同。gradle项目的jar包一般在用户目录的 *caches* 下，我的是在D:\.gradle\caches\modules-2\files-2.1目录下。
