@@ -1,7 +1,7 @@
-[gradle offical](https://gradle.org/)
+[gradle offical](https://gradle.org/)  
 [Gradle教程](http://www.yiibai.com/gradle/)   
-[groovy offical](http://www.groovy-lang.org/)
-[Groovy教程](https://www.w3cschool.cn/groovy)
+[groovy offical](http://www.groovy-lang.org/)  
+[Groovy教程](https://www.w3cschool.cn/groovy)  
 [github bulidship](https://github.com/eclipse/buildship/blob/master/docs/user/Installation.md)
 
 # 引言
@@ -64,7 +64,8 @@ allprojects {
 [gradle更换仓库 解决下载速度慢问题](http://www.jianshu.com/p/ac4b7302200b)
 
 # 项目执行
-gradle不会自动下载jar依赖，这一点比maven好多了，maven自动检测pom是否有变化，如果依赖没有写完，就保存maven插件就会下在相应的jar包，很容易出问题，gradle这一点做的很好，jar的依赖下载需要手动更新项目，具体为：
-右击项目，*Gradle->Refresh Gradle Project* 。
-执行项目，可以先执行以下Gradle test，已检查项目的编译问题，具体如下：
+gradle不会自动下载jar依赖，这一点比maven好多了，maven自动检测pom是否有变化，如果依赖没有写完，就保存maven插件就会下在相应的jar包，很容易出问题，gradle这一点做的很好，jar的依赖下载需要手动更新项目，具体为：    
+右击项目，*Gradle->Refresh Gradle Project* 。   
+
+执行项目，可以先执行以下Gradle test，已检查项目的编译问题，具体如下：  
 *Run As -> Gradle Test*
