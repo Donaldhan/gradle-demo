@@ -6,7 +6,7 @@
 
 # 引言
 
-* [安装gradle eclipse 插件buildship](#安装gradle eclipse 插件buildship)
+* [安装gradle eclipse插件buildship](#安装gradle eclipse插件buildship)
 * [jar依赖](#jar依赖)
 * [项目执行](#项目执行)
 
