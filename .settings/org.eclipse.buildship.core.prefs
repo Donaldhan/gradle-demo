@@ -1,7 +1,7 @@
-#Sun Dec 10 22:18:54 CST 2017
-connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D\:\\gradle-3.1))
-override.workspace.settings=true
-gradle.user.home=D\:/.gradle
-connection.project.dir=
 build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D\:\\gradle-3.1))
+connection.project.dir=../gradle-modules-demo
+eclipse.preferences.version=1
+gradle.user.home=D\:/.gradle
 offline.mode=false
+override.workspace.settings=true

@@ -40,3 +40,11 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:4.12'
 }
+
+dependencies {
+	def jacksonVersion = '2.3.2'
+    compile "com.fasterxml.jackson.core:jackson-annotations:${jacksonVersion}" 
+    compile "com.fasterxml.jackson.core:jackson-databind:${jacksonVersion}"
+    compile "com.fasterxml.jackson.dataformat:jackson-dataformat-smile:${jacksonVersion}"
+    compile "com.fasterxml.jackson.module:jackson-module-jaxb-annotations:${jacksonVersion}"
+}
